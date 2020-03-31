@@ -1,5 +1,6 @@
 # Age_DOE_buildings
 
+For the first part of this accessibility analysis, please see https://github.com/kpananjady/Accessibility-NYC-Schools. 
 It seems that more recent schools are more likely to be rated higher. I'm refining this analysis by looking at:
 
 1) The exact relationship between building age and accessibility (correlation, regression) 
@@ -37,6 +38,3 @@ In Age Analysis.ipynb (https://github.com/kpananjady/Age_DOE_buildings/blob/mast
 
 Screenshot 1( https://github.com/kpananjady/Age_DOE_buildings/blob/master/Screen%20Shot%202020-03-29%20at%206.33.10%20PM.png) shows all the buildings rated 10; Screenshot 2 (https://github.com/kpananjady/Age_DOE_buildings/blob/master/Screen%20Shot%202020-03-29%20at%206.33.22%20PM.png) overlays schools built between 1984-2017. 
 
-___
-
-For the first part of this accessibility analysis, please see https://github.com/kpananjady/Accessibility-NYC-Schools. 
